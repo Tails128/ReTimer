@@ -1,6 +1,6 @@
-class ResourcesEvaluator{
-    public static isDownTime(): boolean{
-        //TODO
-        return true;
-    }
+class ResourcesEvaluator {
+  public static isDownTime(): boolean {
+    //TODO
+    return true;
+  }
 }
